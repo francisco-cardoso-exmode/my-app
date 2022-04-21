@@ -21,7 +21,9 @@ export default function GeolocationPage() {
       <p>Your location is:</p>
       <p>Latitude: {loc?.coords.latitude}</p>
       <p>Longitude: {loc?.coords.longitude}</p>
-     
+      <div></div>
+
+    
      
       <button onClick={getCurrentPosition}>
         Get Current Location
