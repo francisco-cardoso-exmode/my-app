@@ -1,6 +1,7 @@
 import React, {useState, useCallback} from 'react';
 import { Geolocation } from '@capacitor/geolocation';
 
+
 export default function GeolocationPage() {
 
     
