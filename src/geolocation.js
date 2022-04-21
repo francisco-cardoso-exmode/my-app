@@ -13,6 +13,7 @@ export default function GeolocationPage() {
    
   }, []);
 
+
   getCurrentPosition();
 
   return (
