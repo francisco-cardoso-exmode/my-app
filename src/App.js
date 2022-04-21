@@ -10,22 +10,7 @@ function App() {
         <p>
           Edit <code>src/App.jsdsdfsdf</code> and save to reload.
         </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn Reacting mesmo 
-        </a>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn Reacting mesmo 
-        </a>
+        5
         <a
           className="App-link"
           href="https://reactjs.org"
