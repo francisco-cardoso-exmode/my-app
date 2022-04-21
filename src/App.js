@@ -1,5 +1,6 @@
 import logo from './logo.svg';
 import './App.css';
+import GeolocationPage from './geolocation';
 
 function App() {
   return (
@@ -33,7 +34,12 @@ function App() {
         >
           Learn Reacting mesmo 
         </a>
+
+
+
       </header>
+      <GeolocationPage/>
+
     </div>
   );
 }
